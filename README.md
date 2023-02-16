@@ -68,6 +68,5 @@ kubectl get pods
 kubectl get services
 
 minikube service springboot-k8s-mysql
-
 ```
 
